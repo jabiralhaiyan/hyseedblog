@@ -1,0 +1,245 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-07-18 17:00+0600\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-07-18 17:16+0600\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Language: ar\n"
+
+# @ _s
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "عذرًا.. لا يمكن العثور على الصفحة"
+
+# @ _s
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"يبدو أنه لم يتم العثور على أي شيء بهذه الصفحة. جرب أي من الروابط ادناه او "
+"استخدم اداة البحث؟"
+
+# @ _s
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "التصنيفات الأكئر إستخداما"
+
+# @ _s
+#. translators: %1$s: smiley
+#: 404.php:46
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "حاول أن تبحث في الأرشيف الشهري. %1$s"
+
+# @ _s
+#: comments.php:31
+#, fuzzy, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "أفكار حول &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+# @ _s
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "تعليقات علي البحث"
+
+# @ _s
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "التعليقات السابقة"
+
+# @ _s
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "تعليقات جديدة"
+
+# @ _s
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+# @ _s
+#: footer.php:18
+msgid "https://wordpress.org/"
+msgstr ""
+
+# @ _s
+#: footer.php:18
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "بفخر بواسطة ‪%‬s"
+
+# @ _s
+#: footer.php:20
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "موضوع: ‪%‬1‪$‬s بواسطة ‪%‬2‪$‬s"
+
+# @ _s
+#: functions.php:47
+msgid "Primary"
+msgstr "ابتدائي"
+
+# @ _s
+#: functions.php:102
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+# @ _s
+#: header.php:25
+msgid "Skip to content"
+msgstr "انتقل إلى المحتوى"
+
+# @ _s
+#: header.php:38
+msgid "Primary Menu"
+msgstr "القائمة الأساسية"
+
+# @ _s
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "نشر على ‪%‬s"
+
+# @ _s
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "بواسطة ‪%‬s"
+
+# @ _s
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr "،"
+
+# @ _s
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr "نشر في ‪%‬1‪$‬s"
+
+# @ _s
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr "الكلمات الدلالية ‪%‬1‪$‬s"
+
+# @ _s
+#: inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr "اترك تعليقا"
+
+# @ _s
+#: inc/template-tags.php:64
+msgid "1 Comment"
+msgstr "تعليق 1"
+
+# @ _s
+#: inc/template-tags.php:64
+#, php-format
+msgid "% Comments"
+msgstr "٪ تعليقات"
+
+# @ _s
+#. translators: %s: Name of current post
+#: inc/template-tags.php:71 template-parts/content-page.php:32
+#, php-format
+msgid "Edit %s"
+msgstr "تحرير ‪%‬s"
+
+# @ _s
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: ‪%‬s"
+
+# @ _s
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "لم يتم العثور على أي شيء"
+
+# @ _s
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "على استعداد لنشر أول وظيفة؟ تبدأ هنا"
+
+# @ _s
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"آسف، ولكن لا شيء يضاهي شروط البحث الخاصة بك. يرجى المحاولة مرة أخرى مع بعض "
+"كلمات مختلفة."
+
+# @ _s
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"يبدو أننا يمكن رسقوو]؛ ر العثور على ما [رسقوو]؛ إعادة تبحث عنه. ربما البحث "
+"يمكن أن تساعد."
+
+# @ _s
+#: template-parts/content-page.php:21 template-parts/content-single.php:25
+#: template-parts/content.php:34
+msgid "Pages:"
+msgstr "الصفحات:"
+
+# @ _s
+#. translators: %s: Name of current post.
+#: template-parts/content.php:27
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "مواصلة القراءة"
+
+#. Theme Name of the plugin/theme
+msgid "_s"
+msgstr ""
+
+# @ _s
+#. Theme URI of the plugin/theme
+msgid "http://underscores.me/"
+msgstr ""
+
+# @ _s
+#. Description of the plugin/theme
+msgid ""
+"Hi. I'm a starter theme called <code>_s</code>, or <em>underscores</em>, if "
+"you like. I'm a theme meant for hacking so don't use me as a <em>Parent "
+"Theme</em>. Instead try turning me into the next, most awesome, WordPress "
+"theme out there. That's what I'm here for."
+msgstr ""
+
+# @ _s
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr ""
+
+# @ _s
+#. Author URI of the plugin/theme
+msgid "http://automattic.com/"
+msgstr ""

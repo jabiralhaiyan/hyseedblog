@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: academia 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-07-19 16:27+0600\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-07-19 16:28+0600\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Language: ar\n"
+
+msgid "Read More"
+msgstr "اقرأ المزيد"
+
+msgid "LEARN MORE"
+msgstr "اقرأ المزيد"
+
+msgid "Follow Us"
+msgstr "تابِعنا"
+
+msgid "Followers"
+msgstr "التابعون"
+
+msgid "Teacher"
+msgstr "المدرس"
+
+msgid "Username:"
+msgstr "اسم المستخدم:"
+
+msgid "Username"
+msgstr "اسم المستخدم"
+
+msgid "Password:"
+msgstr "كلمة السر:"
+
+msgid "Password"
+msgstr "كلمة مرور"
+
+msgid "Email:"
+msgstr "البريد الالكتروني"
+
+msgid "Remember Me"
+msgstr "تذكرنى"
+
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+msgid "Register"
+msgstr "تسجيل"
